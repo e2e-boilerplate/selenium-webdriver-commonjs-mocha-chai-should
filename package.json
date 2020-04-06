@@ -1,7 +1,7 @@
 {
   "author": "Girma Nigusse <xgirma@gmail.com>",
   "bugs": {
-    "url": "https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/issues"
+    "url": "https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-should/issues"
   },
   "dependencies": {
     "chai": "4.2.0",
@@ -10,7 +10,7 @@
     "selenium-webdriver": "4.0.0-alpha.7",
     "webdriver-manager": "12.1.7"
   },
-  "description": "Selenium-WebDriver end-to-end test automation boilerplate. Using Commonjs, Mocha, Chai and Expect.",
+  "description": "Selenium-WebDriver end-to-end test automation boilerplate. Using Commonjs, Mocha, Chai and Should.",
   "devDependencies": {
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.1.0",
@@ -18,10 +18,10 @@
     "eslint-plugin-import": "2.20.2",
     "eslint-plugin-prettier": "3.1.2",
     "husky": "4.2.3",
-    "prettier": "2.0.3",
+    "prettier": "2.0.4",
     "pretty-quick": "2.0.1"
   },
-  "homepage": "https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect#readme",
+  "homepage": "https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-should#readme",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged --allow-empty"
@@ -34,11 +34,11 @@
     "e2e",
     "e2e tests",
     "example",
-    "expect",
     "integration test",
     "mocha",
     "selenium",
-    "selenium-webdriver"
+    "selenium-webdriver",
+    "should"
   ],
   "license": "MIT",
   "lint-staged": {
@@ -46,10 +46,10 @@
       "prettier --write"
     ]
   },
-  "name": "selenium-webdriver-commonjs-mocha-chai-expect",
+  "name": "selenium-webdriver-commonjs-mocha-chai-should",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect.git"
+    "url": "git+https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-should.git"
   },
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
