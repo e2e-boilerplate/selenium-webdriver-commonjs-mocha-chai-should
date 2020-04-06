@@ -1,0 +1,32 @@
+| No  | Date           | Build                                                                                                                                                                        |
+| :-- | :------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 177 | 04/04/20 20:02 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/70814454) |
+| 169 | 02/04/20 23:56 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/69563376) |
+| 175 | 04/04/20 15:29 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/70711867) |
+| 163 | 01/04/20 23:23 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/68743222) |
+| 165 | 02/04/20 21:36 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/69506482) |
+| 170 | 03/04/20 00:15 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/69575049) |
+| 168 | 02/04/20 23:45 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/69561493) |
+| 162 | 31/03/20 20:12 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/67829679) |
+| 166 | 02/04/20 23:10 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/69551293) |
+| 149 | 28/03/20 19:13 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/65521265) |
+| 151 | 28/03/20 20:11 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/65545016) |
+| 164 | 02/04/20 20:12 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/69471050) |
+| 150 | 28/03/20 20:03 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/65533141) |
+| 173 | 03/04/20 21:30 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/70303923) |
+| 167 | 02/04/20 23:29 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/69556671) |
+| 148 | 28/03/20 15:54 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/65439910) |
+| 174 | 03/04/20 21:56 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/70310382) |
+| 156 | 29/03/20 07:18 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/65783409) |
+| 154 | 29/03/20 02:23 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/65677814) |
+| 155 | 29/03/20 07:08 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/65778788) |
+| 153 | 29/03/20 00:22 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/65635897) |
+| 157 | 29/03/20 16:15 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/66008013) |
+| 158 | 29/03/20 16:53 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/66020306) |
+| 171 | 03/04/20 00:44 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/69589278) |
+| 152 | 28/03/20 21:11 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/65572089) |
+| 160 | 29/03/20 22:42 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/66166754) |
+| 172 | 03/04/20 21:23 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/70302352) |
+| 176 | 04/04/20 16:28 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/70737268) |
+| 159 | 29/03/20 21:43 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/66143468) |
+| 161 | 30/03/20 21:14 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect/actions/runs/66995900) |
