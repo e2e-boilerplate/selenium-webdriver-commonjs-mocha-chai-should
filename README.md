@@ -2,7 +2,7 @@
     
 # Selenium-WebDriver Boilerplate
     
-Selenium-WebDriver end-to-end test automation boilerplate, Using Commonjs, Mocha, Chai and Should.
+Selenium-WebDriver end-to-end test automation boilerplate, Using [Commonjs](https://requirejs.org/docs/commonjs.html), [Mocha](https://mochajs.org), [Chai](https://www.chaijs.com) and Should.
     
 ## Getting Started
     	1. git clone git@github.com:e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-should.git
