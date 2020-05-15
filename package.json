@@ -39,7 +39,8 @@
     "mocha",
     "selenium",
     "selenium-webdriver",
-    "should"
+    "should",
+    "webdriver manager"
   ],
   "license": "MIT",
   "lint-staged": {
