@@ -29,18 +29,19 @@
     }
   },
   "keywords": [
-    "boilerplate",
     "chai",
     "commonjs",
-    "e2e",
-    "e2e tests",
-    "example",
-    "integration test",
     "mocha",
     "selenium",
     "selenium-webdriver",
     "should",
-    "webdriver manager"
+    "webdriver manager",
+    "e2e",
+    "e2e tests",
+    "boilerplate",
+    "integration test",
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
